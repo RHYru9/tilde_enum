@@ -2,7 +2,7 @@
 
 """
 -------------------------------------------------------------------------------
-Name:       enum.py
+Name:       enums.py
 Purpose:    Find dir/file names from the tilde enumeration vuln
 Author:     Rhyru9
 Fork from:  Micah Hoffman (@WebBreacher) 
