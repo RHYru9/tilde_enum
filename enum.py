@@ -29,7 +29,7 @@ from lib.getTerminalSize import getTerminalSize
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
-headers = {'User-Agent': 'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)'}
+headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.140 Safari/537.36'}
 methods = ["GET","POST","OPTIONS","HEAD","TRACE","TRACK","DEBUG"]
 tails = ["\\a.asp","/a.asp","\\a.aspx","/a.aspx","/a.shtml","/a.asmx","/a.ashx","/a.config","/a.php","/a.jpg","","/a.xxx"]
 targets = []
