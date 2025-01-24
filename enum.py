@@ -4,8 +4,9 @@
 -------------------------------------------------------------------------------
 Name:       enum.py
 Purpose:    Find dir/file names from the tilde enumeration vuln
-Author:     esaBear
-Fork from:  Micah Hoffman (@WebBreacher)
+Author:     Rhyru9
+Fork from:  Micah Hoffman (@WebBreacher) 
+Refactored by: esaBear (Code improvements and function implementation)
 Migrated by:  Rhyru9 (Python 2 to Python 3 update)
 -------------------------------------------------------------------------------
 """
