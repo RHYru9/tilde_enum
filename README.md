@@ -16,7 +16,7 @@ A Python tool to exploit the IIS Tilde 8.3 Enumeration Vulnerability, allowing d
 
 ## 🚀 Usage
 ```bash
-python3 enum.py -u <target_url> 
+python3 enums.py -u <target_url> 
 ```
 
 ### 🔧 Options
