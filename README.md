@@ -35,8 +35,8 @@ python3 enum.py -u <target_url>
 
 ## 👥 Credits
 - Original Author: Micah Hoffman (@WebBreacher)
-- Refactored by: esaBear
-- Python 3 Migration: Rhyru9
+- Refactored by: (@esaBear)
+- Python 3 Migration: (@Rhyru9)
 
 ## 🔗 References
 - [IIS Tilde Vulnerability Details](https://soroush.secproject.com/blog/tag/iis-tilde-vulnerability/)
