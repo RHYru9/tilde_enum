@@ -1,0 +1,5 @@
+requests
+pyopenssl
+cryptography
+idna
+urllib3
